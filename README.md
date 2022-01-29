@@ -1,4 +1,4 @@
-# Youtube_like_Progress_Bar
+# Youtube_like_Ajax_Progress_Bar
 
 Step 1 : Copy the Code from given text file.
 
